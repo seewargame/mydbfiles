@@ -3,8 +3,8 @@
         {
             "id": 1,
             "taskName": "order",
-            "startDate": 21.09.2019,
-            "deadline": 24.10.2019,
+            "startDate": "21.09.2019",
+            "deadline": "24.10.2019",
             "responsible": "Ruslan",
             "taskDescription": "Create Hero Component",
             "checklistOfSubtasks": [
@@ -15,8 +15,8 @@
         {
             "id": 2,
             "taskName": "sell",
-            "startDate": 21.10.2019,
-            "deadline": 23.10.2019,
+            "startDate": "21.10.2019",
+            "deadline": "23.10.2019",
             "responsible": "Hesen",
             "taskDescription": "",
             "checklistOfSubtasks": [
